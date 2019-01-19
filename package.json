@@ -1,0 +1,14 @@
+{
+    "name": "dottype.io",
+    "version": "0.0.1",
+    "description": "IO functionality for DotType",
+    "author": "DotType",
+    "license": "Apache-2.0",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/dottype/DotType.IO.git"
+    },
+    "dependencies": {
+        "@types/node": "^10.12.18"
+    }
+}
